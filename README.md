@@ -1,4 +1,4 @@
-# Welcome to Booking.com - Your Ultimate Hotel Booking Destination!
+# Booking.com - Your Ultimate Hotel Booking Destination!
 
 ![Booking.com](https://yourwebsiteurl.com/booking-com-banner.jpg)
 
