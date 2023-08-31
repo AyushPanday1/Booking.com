@@ -93,6 +93,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Experience the future of hotel booking with Booking.com! Your dream vacation is just a click away. Visit us at [https://hotels-bookings.netlify.app](https://hotels-bookings.netlify.app) and start exploring. 
+Experience the future of hotel booking with Booking.com! Your dream vacation is just a click away. Visit us at [https://hotelsbookings.netlify.app/](https://hotelsbookings.netlify.app) and start exploring. 
 
 *"Wherever you go, go with all your heart."* - Confucius
