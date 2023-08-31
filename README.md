@@ -1,6 +1,5 @@
 # Booking.com - Your Ultimate Hotel Booking Destination!
 
-![Booking.com](https://yourwebsiteurl.com/booking-com-banner.jpg)
 
 Booking.com is a cutting-edge MERN (MongoDB, Express, React, Node.js) project designed to revolutionize the way people book hotels around the world. With a seamless user interface, powerful backend functionalities, and a user-centric design, Booking.com offers an unparalleled hotel booking experience.
 
@@ -12,6 +11,7 @@ Booking.com is a cutting-edge MERN (MongoDB, Express, React, Node.js) project de
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- [Future Plans](#future-plans)
 
 ## Features
 
@@ -87,8 +87,20 @@ We welcome contributions from anyone interested in improving Booking.com. Feel f
 
 This project is licensed under the [MIT License](LICENSE).
 
+
+## Future Plans
+
+- Adding responsiveness to make it suitable for every screen size.
+- Implement maps for making it easy to find the location of Hotels.
+- Adding payment gateeway to make it look more real.
+- Map data for hotels worldwide amongst the famous cities.
+
+Any more Suggestions are always welcome in the PRs!
 ---
 
 Experience the future of hotel booking with Booking.com! Your dream vacation is just a click away. Visit us at [https://hotelsbookings.netlify.app/](https://hotelsbookings.netlify.app) and start exploring. 
 
-*"Wherever you go, go with all your heart."* - Confucius
+
+---
+
+Booking.com - Developed By Ayush Panday.
