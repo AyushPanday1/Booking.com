@@ -25,10 +25,6 @@ Booking.com is a cutting-edge MERN (MongoDB, Express, React, Node.js) project de
 
 ⭐ **User Reviews and Ratings**: Make informed decisions with genuine user reviews and ratings for each hotel.
 
-🗺️ **Interactive Maps**: View hotel locations on interactive maps for better visualization.
-
-📱 **Responsive Design**: Enjoy a seamless experience across all devices, from desktop to tablet to mobile.
-
 🔒 **User Authentication**: Securely manage your bookings through user accounts with authentication.
 
 ## Installation
