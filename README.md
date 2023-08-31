@@ -1,5 +1,6 @@
-# Booking.com - Your Ultimate Hotel Booking Destination!
+# Booking.com - MERN Hotel Booking website!
 
+**🚀 Visit the [Booking.com Website](https://hotelsbookings.netlify.app/) Now!**
 
 Booking.com is a cutting-edge MERN (MongoDB, Express, React, Node.js) project designed to revolutionize the way people book hotels around the world. With a seamless user interface, powerful backend functionalities, and a user-centric design, Booking.com offers an unparalleled hotel booking experience.
 
