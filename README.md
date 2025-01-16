@@ -1,4 +1,4 @@
-# Booking.com - MERN Hotel Booking website!
+# Booking.com Clone - MERN Hotel Booking website!
 
 **🚀 Visit the [Booking.com Website](https://bookingg.vercel.app/) Now!**
 
